@@ -1,2 +1,2 @@
-# csd68-api-php
+# CSD 68 API
 PHP Web API
